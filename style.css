@@ -1,0 +1,13 @@
+table {
+    width: 100%;
+}
+.title-login {
+    text-align: center;
+}
+input {
+    width: 90%
+}
+.container {
+    width: 300px;
+    border: 1px solid black;
+}
